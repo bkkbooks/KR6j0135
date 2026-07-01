@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0135/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經一字頂輪王儀軌音義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0958.xml
+    old_id: T19n0958
+hash: sha256:f114c9e200769165c28a6b22844c6f8a28316036c199e0b460ce9e02dea5c26f

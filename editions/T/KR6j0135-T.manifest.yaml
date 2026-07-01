@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0135/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0135/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經一字頂輪王儀軌音義
+  identifiers:
+    krp: KR6j0135
+    cbeta: T19n0958
+    cbeta_old_id: T19n0958
+    authorityid: CA0001631
+    json_key: T0958
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0958.xml
+    old_id: T19n0958
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0135_000-T.yaml, hash: 'sha256:f114c9e200769165c28a6b22844c6f8a28316036c199e0b460ce9e02dea5c26f'}
+  - {seq: 1, filename: KR6j0135_001-T.yaml, hash: 'sha256:cd3d329b779cfdf28429f292eb3d40473594ed37a2c767fde2e72c051bb8c718'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0135_000-T.markers.yaml, hash: 'sha256:1987ed1159a78c83d8094b1f5e042a817f42a46129776cfba9c7a394247ad73a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0135_001-T.markers.yaml, hash: 'sha256:68c884ff66d0c2f5ea4cadaeb36afcc28ef46e95bc33768da3f889bfab09e772'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0135_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1065
+  label: 金剛頂經一字頂輪王儀軌音義
+  type: juan
+  level: 1
+hash: sha256:8b6c2b0e3f261f98f6b956f08dffb8ff53642b20075d481a24d42e679bed3f65

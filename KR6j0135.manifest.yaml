@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0135/v1
+canonical_location: https://kanripo.org/bkk/KR6j0135/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂經一字頂輪王儀軌音義
+  identifiers:
+    alt_id:
+    - T19n0958
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0958.xml
+    old_id: T19n0958
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0135_000.yaml, hash: 'sha256:f114c9e200769165c28a6b22844c6f8a28316036c199e0b460ce9e02dea5c26f'}
+  - {seq: 1, filename: KR6j0135_001.yaml, hash: 'sha256:e739c411023dd7f1f6c1a9c90fab3392ed10136b1308ebdfe2d799b7afc3103c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0135_001.markers.yaml, hash: 'sha256:048f614367f3554337fe87e498114f6c203e6d05138a2dd1a2769ccf1635171b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0135_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1065
+  label: 金剛頂經一字頂輪王儀軌音義
+  type: juan
+  level: 1
+hash: sha256:a883bf86e34090e43c6657e9a943e8101f3ad39a30239effcdb39306506a8ecd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
