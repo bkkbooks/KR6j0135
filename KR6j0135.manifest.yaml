@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0135_000.yaml, hash: 'sha256:f114c9e200769165c28a6b22844c6f8a28316036c199e0b460ce9e02dea5c26f'}
-  - {seq: 1, filename: KR6j0135_001.yaml, hash: 'sha256:e739c411023dd7f1f6c1a9c90fab3392ed10136b1308ebdfe2d799b7afc3103c'}
+  - {seq: 1, filename: KR6j0135_001.yaml, hash: 'sha256:cd3d329b779cfdf28429f292eb3d40473594ed37a2c767fde2e72c051bb8c718'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0135_001.markers.yaml, hash: 'sha256:048f614367f3554337fe87e498114f6c203e6d05138a2dd1a2769ccf1635171b'}
+  - {seq: 0, role: markers, filename: assets/KR6j0135_000.markers.yaml, hash: 'sha256:99a5ad2ce16fcf2c12704c8837aaf27d5b5ca322d83784e1125846821a0e001e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0135_001.markers.yaml, hash: 'sha256:34fcbf82a3e8a89882c9dce382c434033ed09a171414ab2f80aa048294b60a6b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 金剛頂經一字頂輪王儀軌音義
   type: juan
   level: 1
-hash: sha256:a883bf86e34090e43c6657e9a943e8101f3ad39a30239effcdb39306506a8ecd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ce8fffd285c829b68d7dcb95ebed3603ea159584281e6e04dff7018631920e2
