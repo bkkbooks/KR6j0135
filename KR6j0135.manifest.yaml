@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0135/v1
 canonical_location: https://kanripo.org/bkk/KR6j0135/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂經一字頂輪王儀軌音義
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0135_000.yaml, hash: 'sha256:f114c9e200769165c28a6b22844c6f8a28316036c199e0b460ce9e02dea5c26f'}
-  - {seq: 1, filename: KR6j0135_001.yaml, hash: 'sha256:cd3d329b779cfdf28429f292eb3d40473594ed37a2c767fde2e72c051bb8c718'}
+  - {seq: 1, filename: KR6j0135_001.yaml, hash: 'sha256:19a875da0f3b21d28af4bdef2c2a17d4e98e3ebe93e82419ddbc0c89089235e6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0135_000.markers.yaml, hash: 'sha256:99a5ad2ce16fcf2c12704c8837aaf27d5b5ca322d83784e1125846821a0e001e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0135_001.markers.yaml, hash: 'sha256:34fcbf82a3e8a89882c9dce382c434033ed09a171414ab2f80aa048294b60a6b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0135_001.markers.yaml, hash: 'sha256:0e18b674a29889094c32eeaeb5fc2aa3ff0cacc5833db2b6618c9e316d42afd2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 金剛頂經一字頂輪王儀軌音義
   type: juan
   level: 1
-hash: sha256:8ce8fffd285c829b68d7dcb95ebed3603ea159584281e6e04dff7018631920e2
+hash: sha256:e808642a3f4381cbe7180db8295aef34d40d06fce889e0143f3777e47a85515d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
